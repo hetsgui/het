@@ -22,7 +22,7 @@ def usage() -> None:
     print("\t-d, --decompress\tDecompress Zstd")
 
 def main() -> None:
-    print("\n\033[1;31mFile Được Làm Bởi \033[1;33mCậu Xám Sv7")
+    print("\n\033[1;31mFile Được Làm Bởi \033[1;33mHetsgui")
     print("\nVersion: {}.{}.{}".format(2, 0, 7))
 
     try:
